@@ -1,0 +1,10 @@
+Package: com.chasefromm.arcturus2
+Name: Arcturus 2 (iOS 10)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chase Fromm
+Author: Chase Fromm
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
